@@ -57,11 +57,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayhem126&show_icons=true&theme=github-dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mayhem126&show_icons=true&theme=dark" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayhem126&theme=github-dark&cache_seconds=86400" />
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card?username=Mayhem126&theme=dark%22%20alt=%22Modern%20Streak%20Card" />
 </p>
 
 ---
