@@ -61,7 +61,10 @@
 </p>
 
 <p align="left">
-  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card?username=Mayhem126&theme=dark%22%20alt=%22Modern%20Streak%20Card" />
+  <img 
+  src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card?username=Mayhem126&theme=dark&cache_seconds=1800"
+  alt="Modern Streak Card"
+  />
 </p>
 
 ---
