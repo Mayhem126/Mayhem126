@@ -68,5 +68,9 @@
 </p>
 
 ---
+### 👀 Visitors
+![counter](https://count.getloli.com/@Mayhem126?theme=sketch-2)
+
+---
 
 ✨ Always curious. Always building. Open to opportunities.
