@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 - 💻 Software Developer  
-- 🌱 Currently learning **React** and modern frontend patterns  
+- 🌱 Currently learning **Django** and modern backend patterns  
 - 📫 Reach me at: **officialswastik12@gmail.com**  
 - 📄 View my experiences: [Resume](https://drive.google.com/file/d/13nVulcbL3M9SgeetigzFBqw7z8ysXCDN/view)
 
